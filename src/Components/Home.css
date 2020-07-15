@@ -1,0 +1,26 @@
+.Homediv{
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+margin: 2%;
+
+
+}
+.margins{
+  margin: 2%;
+}
+
+.tools{
+  margin: 2%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  padding: 3%;
+}
+
+img {
+  border-radius: 50%;
+}
