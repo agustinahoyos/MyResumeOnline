@@ -1,0 +1,14 @@
+.aboutbox{
+    margin: 5%;
+    width: 50%;
+
+box-shadow: -34px 23px 15px -1px rgba(10, 5, 29, 0.88);
+}
+
+.aboutcontainer{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
