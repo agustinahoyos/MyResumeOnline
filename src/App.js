@@ -18,6 +18,10 @@ function App() {
       <Route exact path='/contact' component={Contact} />
 
       </header>
+      <footer className="foot">
+      <p>Copyright ©</p>
+      <p>Credits to Flaticon and all logo owners</p>
+      </footer>
     </div>
   );
 }
